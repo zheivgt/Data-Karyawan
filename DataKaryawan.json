@@ -3,7 +3,7 @@
   "pesan": "Data karyawan ditemukan",
   "data": [
     {
-      "nik": "001",
+      "nik": "00001",
       "nama": "ALEXANDRA SMITH",
       "organisasi": "HR1000",
       "nama_organisasi": "Human Resources",
@@ -15,7 +15,7 @@
       "tanggal_lahir": "1985-03-10"
     },
     {
-      "nik": "002",
+      "nik": "00002",
       "nama": "JAMES WILSON",
       "organisasi": "IT2000",
       "nama_organisasi": "IT Support",
@@ -27,7 +27,7 @@
       "tanggal_lahir": "1979-07-22"
     },
     {
-      "nik": "003",
+      "nik": "00003",
       "nama": "EMILY JOHNSON",
       "organisasi": "MK3000",
       "nama_organisasi": "Marketing",
@@ -39,7 +39,7 @@
       "tanggal_lahir": "1990-11-15"
     },
     {
-      "nik": "004",
+      "nik": "00004",
       "nama": "MICHAEL BROWN",
       "organisasi": "FI4000",
       "nama_organisasi": "Finance",
@@ -51,7 +51,7 @@
       "tanggal_lahir": "1982-05-20"
     },
     {
-      "nik": "005",
+      "nik": "00005",
       "nama": "SARAH DAVIS",
       "organisasi": "RD5000",
       "nama_organisasi": "Research & Development",
@@ -63,7 +63,7 @@
       "tanggal_lahir": "1988-09-08"
     },
     {
-      "nik": "006",
+      "nik": "00006",
       "nama": "LUCAS MARTINEZ",
       "organisasi": "IT6000",
       "nama_organisasi": "IT Operations",
@@ -75,7 +75,7 @@
       "tanggal_lahir": "1983-02-12"
     },
     {
-      "nik": "007",
+      "nik": "00007",
       "nama": "OLIVIA THOMPSON",
       "organisasi": "IT7000",
       "nama_organisasi": "IT Infrastructure",
@@ -87,7 +87,7 @@
       "tanggal_lahir": "1986-12-01"
     },
     {
-      "nik": "008",
+      "nik": "00008",
       "nama": "Ethan Lee",
       "organisasi": "IT8000",
       "nama_organisasi": "IT Security",
@@ -99,7 +99,7 @@
       "tanggal_lahir": "1991-04-25"
     },
     {
-      "nik": "009",
+      "nik": "00009",
       "nama": "AVA JONES",
       "organisasi": "IT9000",
       "nama_organisasi": "IT Support",
@@ -111,7 +111,7 @@
       "tanggal_lahir": "1987-06-13"
     },
     {
-      "nik": "010",
+      "nik": "00010",
       "nama": "BENJAMIN RODRIGUEZ",
       "organisasi": "IT10000",
       "nama_organisasi": "IT Development",
@@ -123,7 +123,7 @@
       "tanggal_lahir": "1989-10-30"
     },
     {
-      "nik": "011",
+      "nik": "00011",
       "nama": "SOPHIA MARTIN",
       "organisasi": "PI1000",
       "nama_organisasi": "Product Innovation",
@@ -135,7 +135,7 @@
       "tanggal_lahir": "1992-01-18"
     },
     {
-      "nik": "012",
+      "nik": "00012",
       "nama": "MASON WILSON",
       "organisasi": "PI2000",
       "nama_organisasi": "Product Strategy",
@@ -147,7 +147,7 @@
       "tanggal_lahir": "1984-08-05"
     },
     {
-      "nik": "013",
+      "nik": "00013",
       "nama": "ISLA ANDERSON",
       "organisasi": "PI3000",
       "nama_organisasi": "Product Development",
@@ -159,7 +159,7 @@
       "tanggal_lahir": "1989-09-20"
     },
     {
-      "nik": "014",
+      "nik": "00014",
       "nama": "JACOB HARRIS",
       "organisasi": "PI4000",
       "nama_organisasi": "Product Quality",
@@ -171,7 +171,7 @@
       "tanggal_lahir": "1990-07-28"
     },
     {
-      "nik": "015",
+      "nik": "00015",
       "nama": "CHARLOTTE WALKER",
       "organisasi": "PI5000",
       "nama_organisasi": "Product Marketing",
@@ -183,7 +183,7 @@
       "tanggal_lahir": "1987-11-14"
     },
     {
-      "nik": "016",
+      "nik": "00016",
       "nama": "ELLIOT LEWIS",
       "organisasi": "IT11000",
       "nama_organisasi": "IT Systems",
@@ -195,7 +195,7 @@
       "tanggal_lahir": "1981-03-17"
     },
     {
-      "nik": "017",
+      "nik": "00017",
       "nama": "MIA KIM",
       "organisasi": "IT12000",
       "nama_organisasi": "IT Consulting",
@@ -207,7 +207,7 @@
       "tanggal_lahir": "1993-05-30"
     },
     {
-      "nik": "018",
+      "nik": "00018",
       "nama": "NATHAN WHITE",
       "organisasi": "PI6000",
       "nama_organisasi": "Product Research",
@@ -219,7 +219,7 @@
       "tanggal_lahir": "1985-04-22"
     },
     {
-      "nik": "019",
+      "nik": "00019",
       "nama": "GRACE CLARK",
       "organisasi": "PI7000",
       "nama_organisasi": "Product Design",
@@ -231,7 +231,7 @@
       "tanggal_lahir": "1989-10-10"
     },
     {
-      "nik": "020",
+      "nik": "00020",
       "nama": "HENRY EVANS",
       "organisasi": "PI8000",
       "nama_organisasi": "Product Operations",
@@ -243,7 +243,7 @@
       "tanggal_lahir": "1984-07-15"
     },
     {
-      "nik": "021",
+      "nik": "00021",
       "nama": "ZOE MILLER",
       "organisasi": "IT13000",
       "nama_organisasi": "IT Architecture",
@@ -255,7 +255,7 @@
       "tanggal_lahir": "1986-11-09"
     },
     {
-      "nik": "022",
+      "nik": "00022",
       "nama": "SAMUEL BAKER",
       "organisasi": "PI9000",
       "nama_organisasi": "Product Strategy",
@@ -267,7 +267,7 @@
       "tanggal_lahir": "1994-02-25"
     },
     {
-      "nik": "023",
+      "nik": "00023",
       "nama": "LILY MOORE",
       "organisasi": "IT14000",
       "nama_organisasi": "IT Development",
@@ -279,7 +279,7 @@
       "tanggal_lahir": "1992-06-12"
     },
     {
-      "nik": "024",
+      "nik": "00024",
       "nama": "JACKSON SCOTT",
       "organisasi": "PI10000",
       "nama_organisasi": "Product Innovation",
@@ -291,7 +291,7 @@
       "tanggal_lahir": "1988-02-05"
     },
     {
-      "nik": "025",
+      "nik": "00025",
       "nama": "AIDEN WALKER",
       "organisasi": "IT15000",
       "nama_organisasi": "IT Security",
@@ -303,7 +303,7 @@
       "tanggal_lahir": "1990-12-22"
     },
     {
-      "nik": "026",
+      "nik": "00026",
       "nama": "HARPER HALL",
       "organisasi": "PI11000",
       "nama_organisasi": "Product Quality",
@@ -315,7 +315,7 @@
       "tanggal_lahir": "1987-05-18"
     },
     {
-      "nik": "027",
+      "nik": "00027",
       "nama": "SEBASTIAN KING",
       "organisasi": "IT16000",
       "nama_organisasi": "IT Architecture",
@@ -327,7 +327,7 @@
       "tanggal_lahir": "1985-03-25"
     },
     {
-      "nik": "028",
+      "nik": "00028",
       "nama": "ELLA JAMES",
       "organisasi": "PI12000",
       "nama_organisasi": "Product Development",
@@ -339,7 +339,7 @@
       "tanggal_lahir": "1991-09-17"
     },
     {
-      "nik": "029",
+      "nik": "00029",
       "nama": "HENRY PEREZ",
       "organisasi": "IT17000",
       "nama_organisasi": "IT Operations",
@@ -351,7 +351,7 @@
       "tanggal_lahir": "1983-10-03"
     },
     {
-      "nik": "030",
+      "nik": "00030",
       "nama": "LUCY CLARK",
       "organisasi": "PI13000",
       "nama_organisasi": "Product Strategy",
@@ -363,7 +363,7 @@
       "tanggal_lahir": "1989-04-29"
     },
     {
-      "nik": "031",
+      "nik": "00031",
       "nama": "MATTHEW TAYLOR",
       "organisasi": "IT18000",
       "nama_organisasi": "IT Support",
@@ -375,7 +375,7 @@
       "tanggal_lahir": "1984-06-07"
     },
     {
-      "nik": "032",
+      "nik": "00032",
       "nama": "EMMA MARTINEZ",
       "organisasi": "PI14000",
       "nama_organisasi": "Product Marketing",
@@ -387,7 +387,7 @@
       "tanggal_lahir": "1988-11-21"
     },
     {
-      "nik": "033",
+      "nik": "00033",
       "nama": "DANIEL LEWIS",
       "organisasi": "IT19000",
       "nama_organisasi": "IT Infrastructure",
@@ -399,7 +399,7 @@
       "tanggal_lahir": "1982-09-12"
     },
     {
-      "nik": "034",
+      "nik": "00034",
       "nama": "ISABELLA ANDERSON",
       "organisasi": "PI15000",
       "nama_organisasi": "Product Research",
@@ -411,7 +411,7 @@
       "tanggal_lahir": "1990-01-10"
     },
     {
-      "nik": "035",
+      "nik": "00035",
       "nama": "ETHAN SCOTT",
       "organisasi": "IT20000",
       "nama_organisasi": "IT Security",
@@ -423,7 +423,7 @@
       "tanggal_lahir": "1993-08-14"
     },
     {
-      "nik": "036",
+      "nik": "00036",
       "nama": "SOPHIE ROBINSON",
       "organisasi": "PI16000",
       "nama_organisasi": "Product Quality",
@@ -435,7 +435,7 @@
       "tanggal_lahir": "1984-11-30"
     },
     {
-      "nik": "037",
+      "nik": "00037",
       "nama": "NOAH WALKER",
       "organisasi": "IT21000",
       "nama_organisasi": "IT Consulting",
@@ -447,7 +447,7 @@
       "tanggal_lahir": "1981-10-27"
     },
     {
-      "nik": "038",
+      "nik": "00038",
       "nama": "AMELIA KING",
       "organisasi": "PI17000",
       "nama_organisasi": "Product Development",
@@ -459,7 +459,7 @@
       "tanggal_lahir": "1995-12-08"
     },
     {
-      "nik": "039",
+      "nik": "00039",
       "nama": "LIAM TURNER",
       "organisasi": "IT22000",
       "nama_organisasi": "IT Operations",
@@ -471,7 +471,7 @@
       "tanggal_lahir": "1985-07-09"
     },
     {
-      "nik": "040",
+      "nik": "00040",
       "nama": "ZOE CAMPBELL",
       "organisasi": "PI18000",
       "nama_organisasi": "Product Innovation",
@@ -483,7 +483,7 @@
       "tanggal_lahir": "1994-03-15"
     },
     {
-      "nik": "041",
+      "nik": "00041",
       "nama": "LUKE HARRIS",
       "organisasi": "IT23000",
       "nama_organisasi": "IT Support",
@@ -495,7 +495,7 @@
       "tanggal_lahir": "1987-09-19"
     },
     {
-      "nik": "042",
+      "nik": "00042",
       "nama": "GRACE EVANS",
       "organisasi": "PI19000",
       "nama_organisasi": "Product Marketing",
@@ -507,7 +507,7 @@
       "tanggal_lahir": "1983-04-24"
     },
     {
-      "nik": "043",
+      "nik": "00043",
       "nama": "SOPHIA WHITE",
       "organisasi": "IT24000",
       "nama_organisasi": "IT Development",
@@ -519,7 +519,7 @@
       "tanggal_lahir": "1992-07-15"
     },
     {
-      "nik": "044",
+      "nik": "00044",
       "nama": "OLIVER THOMAS",
       "organisasi": "PI20000",
       "nama_organisasi": "Product Innovation",
@@ -531,7 +531,7 @@
       "tanggal_lahir": "1986-01-05"
     },
     {
-      "nik": "045",
+      "nik": "00045",
       "nama": "MIA TAYLOR",
       "organisasi": "IT25000",
       "nama_organisasi": "IT Security",
@@ -543,7 +543,7 @@
       "tanggal_lahir": "1991-10-18"
     },
     {
-      "nik": "046",
+      "nik": "00046",
       "nama": "JAMES JOHNSON",
       "organisasi": "PI21000",
       "nama_organisasi": "Product Quality",
@@ -555,7 +555,7 @@
       "tanggal_lahir": "1989-08-22"
     },
     {
-      "nik": "047",
+      "nik": "00047",
       "nama": "AVA DAVIS",
       "organisasi": "IT26000",
       "nama_organisasi": "IT Architecture",
@@ -567,7 +567,7 @@
       "tanggal_lahir": "1983-12-12"
     },
     {
-      "nik": "048",
+      "nik": "00048",
       "nama": "BENJAMIN MARTIN",
       "organisasi": "PI22000",
       "nama_organisasi": "Product Development",
@@ -579,7 +579,7 @@
       "tanggal_lahir": "1992-11-30"
     },
     {
-      "nik": "049",
+      "nik": "00049",
       "nama": "EMILY MILLER",
       "organisasi": "IT27000",
       "nama_organisasi": "IT Operations",
@@ -591,7 +591,7 @@
       "tanggal_lahir": "1987-04-25"
     },
     {
-      "nik": "050",
+      "nik": "00050",
       "nama": "DANIEL GARCIA",
       "organisasi": "PI23000",
       "nama_organisasi": "Product Strategy",
@@ -603,7 +603,7 @@
       "tanggal_lahir": "1986-05-14"
     },
     {
-      "nik": "051",
+      "nik": "00051",
       "nama": "LUCAS MARTINEZ",
       "organisasi": "IT28000",
       "nama_organisasi": "IT Support",
@@ -615,7 +615,7 @@
       "tanggal_lahir": "1990-07-09"
     },
     {
-      "nik": "052",
+      "nik": "00052",
       "nama": "CHLOE BROWN",
       "organisasi": "PI24000",
       "nama_organisasi": "Product Marketing",
@@ -627,7 +627,7 @@
       "tanggal_lahir": "1988-09-29"
     },
     {
-      "nik": "053",
+      "nik": "00053",
       "nama": "JACK WILSON",
       "organisasi": "IT29000",
       "nama_organisasi": "IT Infrastructure",
@@ -639,7 +639,7 @@
       "tanggal_lahir": "1984-02-12"
     },
     {
-      "nik": "054",
+      "nik": "00054",
       "nama": "SOPHIE CLARK",
       "organisasi": "PI25000",
       "nama_organisasi": "Product Research",
@@ -651,7 +651,7 @@
       "tanggal_lahir": "1993-01-21"
     },
     {
-      "nik": "055",
+      "nik": "00055",
       "nama": "MICHAEL LEE",
       "organisasi": "IT30000",
       "nama_organisasi": "IT Security",
@@ -663,7 +663,7 @@
       "tanggal_lahir": "1987-10-18"
     },
     {
-      "nik": "056",
+      "nik": "00056",
       "nama": "CHARLOTTE HERNANDEZ",
       "organisasi": "PI26000",
       "nama_organisasi": "Product Quality",
@@ -675,7 +675,7 @@
       "tanggal_lahir": "1985-03-24"
     },
     {
-      "nik": "057",
+      "nik": "00057",
       "nama": "LIAM LOPEZ",
       "organisasi": "IT31000",
       "nama_organisasi": "IT Consulting",
@@ -687,7 +687,7 @@
       "tanggal_lahir": "1983-11-06"
     },
     {
-      "nik": "058",
+      "nik": "00058",
       "nama": "ZOE GONZALEZ",
       "organisasi": "PI27000",
       "nama_organisasi": "Product Development",
@@ -699,7 +699,7 @@
       "tanggal_lahir": "1995-05-23"
     },
     {
-      "nik": "059",
+      "nik": "00059",
       "nama": "ETHAN PEREZ",
       "organisasi": "IT32000",
       "nama_organisasi": "IT Operations",
@@ -711,7 +711,7 @@
       "tanggal_lahir": "1981-09-11"
     },
     {
-      "nik": "060",
+      "nik": "00060",
       "nama": "ISABELLA ROGERS",
       "organisasi": "PI28000",
       "nama_organisasi": "Product Innovation",
@@ -723,7 +723,7 @@
       "tanggal_lahir": "1982-08-07"
     },
     {
-      "nik": "061",
+      "nik": "00061",
       "nama": "WILLIAM JAMES",
       "organisasi": "IT36000",
       "nama_organisasi": "IT Strategy",
@@ -735,7 +735,7 @@
       "tanggal_lahir": "1984-04-12"
     },
     {
-      "nik": "062",
+      "nik": "00062",
       "nama": "AVA JONES",
       "organisasi": "PI32000",
       "nama_organisasi": "Product Design",
@@ -747,7 +747,7 @@
       "tanggal_lahir": "1990-03-24"
     },
     {
-      "nik": "063",
+      "nik": "00063",
       "nama": "LIAM GARCIA",
       "organisasi": "IT37000",
       "nama_organisasi": "IT Governance",
@@ -759,7 +759,7 @@
       "tanggal_lahir": "1985-02-05"
     },
     {
-      "nik": "064",
+      "nik": "00064",
       "nama": "ISABELLA RIVERA",
       "organisasi": "PI33000",
       "nama_organisasi": "Product Quality",
@@ -771,7 +771,7 @@
       "tanggal_lahir": "1992-01-29"
     },
     {
-      "nik": "065",
+      "nik": "00065",
       "nama": "JAMES SMITH",
       "organisasi": "IT38000",
       "nama_organisasi": "IT Operations",
@@ -783,7 +783,7 @@
       "tanggal_lahir": "1986-05-16"
     },
     {
-      "nik": "066",
+      "nik": "00066",
       "nama": "OLIVIA JOHNSON",
       "organisasi": "PI34000",
       "nama_organisasi": "Product Innovation",
@@ -795,7 +795,7 @@
       "tanggal_lahir": "1989-11-19"
     },
     {
-      "nik": "067",
+      "nik": "00067",
       "nama": "BENJAMIN THOMAS",
       "organisasi": "IT39000",
       "nama_organisasi": "IT Security",
@@ -807,7 +807,7 @@
       "tanggal_lahir": "1991-12-15"
     },
     {
-      "nik": "068",
+      "nik": "00068",
       "nama": "CHARLOTTE WHITE",
       "organisasi": "PI35000",
       "nama_organisasi": "Product Management",
@@ -819,7 +819,7 @@
       "tanggal_lahir": "1993-07-30"
     },
     {
-      "nik": "069",
+      "nik": "00069",
       "nama": "MICHAEL MARTINEZ",
       "organisasi": "IT40000",
       "nama_organisasi": "IT Support",
@@ -831,7 +831,7 @@
       "tanggal_lahir": "1988-08-10"
     },
     {
-      "nik": "070",
+      "nik": "00070",
       "nama": "EMILY HERNANDEZ",
       "organisasi": "PI36000",
       "nama_organisasi": "Product Development",
@@ -843,7 +843,7 @@
       "tanggal_lahir": "1987-03-21"
     },
     {
-      "nik": "071",
+      "nik": "00071",
       "nama": "WILLIAM LOPEZ",
       "organisasi": "IT41000",
       "nama_organisasi": "IT Architecture",
@@ -855,7 +855,7 @@
       "tanggal_lahir": "1986-09-11"
     },
     {
-      "nik": "072",
+      "nik": "00072",
       "nama": "SOPHIA CLARK",
       "organisasi": "PI37000",
       "nama_organisasi": "Product Quality",
@@ -867,7 +867,7 @@
       "tanggal_lahir": "1989-02-14"
     },
     {
-      "nik": "073",
+      "nik": "00073",
       "nama": "JACOB RODRIGUEZ",
       "organisasi": "IT42000",
       "nama_organisasi": "IT Consulting",
@@ -879,7 +879,7 @@
       "tanggal_lahir": "1985-10-20"
     },
     {
-      "nik": "074",
+      "nik": "00074",
       "nama": "OLIVER HALL",
       "organisasi": "PI38000",
       "nama_organisasi": "Product Research",
@@ -891,7 +891,7 @@
       "tanggal_lahir": "1991-04-01"
     },
     {
-      "nik": "075",
+      "nik": "00075",
       "nama": "AVERY ALLEN",
       "organisasi": "IT43000",
       "nama_organisasi": "IT Governance",
@@ -903,7 +903,7 @@
       "tanggal_lahir": "1986-12-25"
     },
     {
-      "nik": "076",
+      "nik": "00076",
       "nama": "LUCAS YOUNG",
       "organisasi": "PI39000",
       "nama_organisasi": "Product Innovation",
@@ -915,7 +915,7 @@
       "tanggal_lahir": "1989-05-30"
     },
     {
-      "nik": "077",
+      "nik": "00077",
       "nama": "CHLOE KING",
       "organisasi": "IT44000",
       "nama_organisasi": "IT Operations",
@@ -927,7 +927,7 @@
       "tanggal_lahir": "1988-11-03"
     },
     {
-      "nik": "078",
+      "nik": "00078",
       "nama": "BENJAMIN HARRIS",
       "organisasi": "PI40000",
       "nama_organisasi": "Product Management",
@@ -939,7 +939,7 @@
       "tanggal_lahir": "1990-06-17"
     },
     {
-      "nik": "079",
+      "nik": "00079",
       "nama": "CHARLES MOORE",
       "organisasi": "IT45000",
       "nama_organisasi": "IT Compliance",
@@ -951,7 +951,7 @@
       "tanggal_lahir": "1992-02-10"
     },
     {
-      "nik": "080",
+      "nik": "00080",
       "nama": "LILY TAYLOR",
       "organisasi": "PI41000",
       "nama_organisasi": "Product Analytics",
@@ -963,7 +963,7 @@
       "tanggal_lahir": "1993-03-15"
     },
     {
-      "nik": "081",
+      "nik": "00081",
       "nama": "HENRY ANDERSON",
       "organisasi": "IT46000",
       "nama_organisasi": "IT Service Management",
@@ -975,7 +975,7 @@
       "tanggal_lahir": "1985-05-22"
     },
     {
-      "nik": "082",
+      "nik": "00082",
       "nama": "GRACE THOMPSON",
       "organisasi": "PI42000",
       "nama_organisasi": "Product Marketing",
@@ -987,7 +987,7 @@
       "tanggal_lahir": "1991-06-30"
     },
     {
-      "nik": "083",
+      "nik": "00083",
       "nama": "JACKSON MARTIN",
       "organisasi": "IT47000",
       "nama_organisasi": "IT Project Management",
@@ -999,7 +999,7 @@
       "tanggal_lahir": "1988-08-01"
     },
     {
-      "nik": "084",
+      "nik": "00084",
       "nama": "ALEXIS WILSON",
       "organisasi": "PI43000",
       "nama_organisasi": "Product Strategy",
@@ -1011,7 +1011,7 @@
       "tanggal_lahir": "1990-09-22"
     },
     {
-      "nik": "085",
+      "nik": "00085",
       "nama": "LUCY MOORE",
       "organisasi": "IT48000",
       "nama_organisasi": "IT Infrastructure",
@@ -1023,7 +1023,7 @@
       "tanggal_lahir": "1987-07-14"
     },
     {
-      "nik": "086",
+      "nik": "00086",
       "nama": "NATHAN JOHNSON",
       "organisasi": "PI44000",
       "nama_organisasi": "Product Lifecycle",
@@ -1035,7 +1035,7 @@
       "tanggal_lahir": "1989-10-16"
     },
     {
-      "nik": "087",
+      "nik": "00087",
       "nama": "VICTORIA GARCIA",
       "organisasi": "IT49000",
       "nama_organisasi": "IT Risk Management",
@@ -1047,7 +1047,7 @@
       "tanggal_lahir": "1992-11-28"
     },
     {
-      "nik": "088",
+      "nik": "00088",
       "nama": "ELIJAH HERNANDEZ",
       "organisasi": "PI45000",
       "nama_organisasi": "Product Development",
@@ -1059,7 +1059,7 @@
       "tanggal_lahir": "1994-12-31"
     },
     {
-      "nik": "089",
+      "nik": "00089",
       "nama": "OLIVIA WRIGHT",
       "organisasi": "IT50000",
       "nama_organisasi": "IT Security",
@@ -1071,7 +1071,7 @@
       "tanggal_lahir": "1991-01-20"
     },
     {
-      "nik": "090",
+      "nik": "00090",
       "nama": "LUCAS LOPEZ",
       "organisasi": "PI46000",
       "nama_organisasi": "Product Design",
@@ -1083,7 +1083,7 @@
       "tanggal_lahir": "1993-02-28"
     },
     {
-      "nik": "091",
+      "nik": "00091",
       "nama": "SOPHIA HALL",
       "organisasi": "IT51000",
       "nama_organisasi": "IT Support",
@@ -1095,7 +1095,7 @@
       "tanggal_lahir": "1988-03-10"
     },
     {
-      "nik": "092",
+      "nik": "00092",
       "nama": "MASON ALLEN",
       "organisasi": "PI47000",
       "nama_organisasi": "Product Operations",
@@ -1107,7 +1107,7 @@
       "tanggal_lahir": "1990-04-19"
     },
     {
-      "nik": "093",
+      "nik": "00093",
       "nama": "ISABELLA YOUNG",
       "organisasi": "IT52000",
       "nama_organisasi": "IT Architecture",
@@ -1119,7 +1119,7 @@
       "tanggal_lahir": "1992-05-15"
     },
     {
-      "nik": "094",
+      "nik": "00094",
       "nama": "ETHAN KING",
       "organisasi": "PI48000",
       "nama_organisasi": "Product Quality",
@@ -1131,7 +1131,7 @@
       "tanggal_lahir": "1989-06-24"
     },
     {
-      "nik": "095",
+      "nik": "00095",
       "nama": "AVA GREEN",
       "organisasi": "IT53000",
       "nama_organisasi": "IT DevOps",
@@ -1143,7 +1143,7 @@
       "tanggal_lahir": "1991-07-30"
     },
     {
-      "nik": "096",
+      "nik": "00096",
       "nama": "JACOB HARRIS",
       "organisasi": "PI49000",
       "nama_organisasi": "Product Insights",
@@ -1155,7 +1155,7 @@
       "tanggal_lahir": "1993-08-12"
     },
     {
-      "nik": "097",
+      "nik": "00097",
       "nama": "MIA CLARK",
       "organisasi": "IT54000",
       "nama_organisasi": "IT Data Management",
@@ -1167,7 +1167,7 @@
       "tanggal_lahir": "1994-09-09"
     },
     {
-      "nik": "098",
+      "nik": "00098",
       "nama": "LILY LEWIS",
       "organisasi": "PI50000",
       "nama_organisasi": "Product Sales",
@@ -1179,7 +1179,7 @@
       "tanggal_lahir": "1987-10-15"
     },
     {
-      "nik": "099",
+      "nik": "00099",
       "nama": "ELLA CARTER",
       "organisasi": "IT55000",
       "nama_organisasi": "IT Network Engineering",
@@ -1191,7 +1191,7 @@
       "tanggal_lahir": "1995-11-02"
     },
     {
-      "nik": "100",
+      "nik": "00100",
       "nama": "HENRY THOMPSON",
       "organisasi": "PI51000",
       "nama_organisasi": "Product Management",
@@ -1203,7 +1203,7 @@
       "tanggal_lahir": "1990-12-20"
     },
     {
-      "nik": "101",
+      "nik": "00101",
       "nama": "NORA SCOTT",
       "organisasi": "IT56000",
       "nama_organisasi": "IT Cybersecurity",
@@ -1215,7 +1215,7 @@
       "tanggal_lahir": "1993-01-15"
     },
     {
-      "nik": "102",
+      "nik": "00102",
       "nama": "GABRIELLE ADAMS",
       "organisasi": "PI52000",
       "nama_organisasi": "Product Marketing",
@@ -1227,7 +1227,7 @@
       "tanggal_lahir": "1994-02-05"
     },
     {
-      "nik": "103",
+      "nik": "00103",
       "nama": "AIDEN TURNER",
       "organisasi": "IT57000",
       "nama_organisasi": "IT Database Administration",
@@ -1239,7 +1239,7 @@
       "tanggal_lahir": "1988-03-30"
     },
     {
-      "nik": "104",
+      "nik": "00104",
       "nama": "CHLOE HALL",
       "organisasi": "PI53000",
       "nama_organisasi": "Product Development",
@@ -1251,7 +1251,7 @@
       "tanggal_lahir": "1992-04-22"
     },
     {
-      "nik": "105",
+      "nik": "00105",
       "nama": "MIA WILSON",
       "organisasi": "IT58000",
       "nama_organisasi": "IT Project Management",
@@ -1263,7 +1263,7 @@
       "tanggal_lahir": "1995-05-18"
     },
     {
-      "nik": "106",
+      "nik": "00106",
       "nama": "LUCAS CARTER",
       "organisasi": "PI54000",
       "nama_organisasi": "Product Analytics",
@@ -1275,7 +1275,7 @@
       "tanggal_lahir": "1991-06-13"
     },
     {
-      "nik": "107",
+      "nik": "00107",
       "nama": "ELENA DAVIS",
       "organisasi": "IT59000",
       "nama_organisasi": "IT Systems Engineering",
@@ -1287,7 +1287,7 @@
       "tanggal_lahir": "1990-07-25"
     },
     {
-      "nik": "108",
+      "nik": "00108",
       "nama": "JACKSON RIVERA",
       "organisasi": "PI55000",
       "nama_organisasi": "Product Sales Operations",
